@@ -10,6 +10,8 @@ public class TESTCLASS {
     char BJ = 'B';
     int yy= 124;
 
+    int bb = 3;
+
 
  String Hien = "Nguyen";
 
