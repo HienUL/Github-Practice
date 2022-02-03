@@ -3,4 +3,5 @@ public class TESTCLASS {
     int carlsNumber = 3;
     char BJ = 'B';
     int yy= 124;
+    boolean iHateGit = true;
 }
