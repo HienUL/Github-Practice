@@ -1,0 +1,2 @@
+# Github-Practice
+Go crazy
