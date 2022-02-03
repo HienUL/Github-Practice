@@ -4,5 +4,10 @@ public class TESTCLASS {
     double ageDouble = 24.5;
     char BJ = 'B';
     int yy= 124;
+
+
+ String Hien = "Nguyen";
+
     boolean iHateGit = true;
+
 }
